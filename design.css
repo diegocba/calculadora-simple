@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+body 
+{
+	/* para cambiar el color de la letra*/
+	color: #F90;
+	background-color:#9FF;
+	font-family: sans-serif;
+}
+
+body p 
+{
+	color: white;
+}
+body ul
+{
+	color:#F36;
+}
+.btn_resaltado {
+	color: #FFF;
+	background-color: #000;
+	border-top-style: groove;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-left-style: groove;
+	border-top-color: #F93;
+	border-right-color: #F93;
+	border-bottom-color: #F93;
+	border-left-color: #F93;
+}
+
+#texto {
+}
+
+.espacio
+{
+	background-color:#FF0;
+	padding_top: 30 px;
+	padding_bottom: 20 px;
+	margin_top: 15 px;
+	margin-bottom: 5 px;
+	border: 1 px;
+}
+
+.fluor
+{
+	color:#39F;
+}
+
